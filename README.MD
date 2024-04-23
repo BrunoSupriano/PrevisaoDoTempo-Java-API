@@ -1,13 +1,11 @@
-# Projeto BackEnd - Web Service Java
+# Projeto BackEnd - Web Service Java :coffee:
 ### Previsão do Tempo (API OpenWeatherMap)
 
 --- 
-## Atenção - Projeto em Andamento
-###### 20/04/2024 <p>O Projeto está sendo melhorado e adaptado para que retorne dados estruturados e vizualmente eficazes</p>
 
 ## Sobre o Projeto
 
-> <p>Esse é um projeto para a disciplina de BackEnd desenvolvido em Java e urilizando Spring Boot. A API fornece informações de  previsão do tempo com base em consultas de cidade utilizando a API do OpenWeatherMap.</p>
+Esse é um projeto para a disciplina de BackEnd desenvolvido em Java e urilizando Spring Boot. A API fornece informações de previsão do tempo com base em consultas de cidade diretamente pelo endereço da URL.
 
 ## Requisitos
 
